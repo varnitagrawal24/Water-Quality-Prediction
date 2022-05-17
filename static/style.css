@@ -1,0 +1,45 @@
+.mydiv{
+    height: 410px;
+    background: url('pic2.jpg') no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: 30px;
+    background-position: center;
+}
+h1.head{
+    margin-top: 0%;
+    padding-top: 120px;
+    color: rgba(5, 149, 245, 0.76);
+    text-shadow: 5px 5px rgb(12, 18, 75);
+    
+}
+h1.fill{
+    margin-left: 500px;
+}
+body{
+    background: rgb(205, 235, 243);
+    margin: 0%;
+}
+form.wq-form {
+    display: table;
+    margin-left: 500px;
+}
+
+div.wq-parameter {
+    display: table-row;
+
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+p{
+    text-align: left;
+    padding-left: 10px;
+}
